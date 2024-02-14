@@ -162,3 +162,4 @@ cython_debug/
 # from the app
 data/
 models/
+sample_images/
